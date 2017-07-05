@@ -3,10 +3,13 @@
 The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 
-## Visualization
+## Basics
 
 Visualizing and Understanding Convolutional Networks
 http://www.matthewzeiler.com/pubs/arxive2013/arxive2013.pdf
+
+Rectified Linear Units Improve Restricted Boltzmann Machines
+http://www.cs.toronto.edu/~fritz/absps/reluICML.pdf
 
 ## Artistic Style
 
