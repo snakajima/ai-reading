@@ -1,3 +1,8 @@
+## Articles
+
+The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
 ## Artistic Style
 
 A Neural Algorithm of Artistic Style
@@ -7,6 +12,11 @@ https://arxiv.org/pdf/1508.06576v1.pdf
 
 Texture Synthesis Using Convolutional Neural Networks
 https://arxiv.org/abs/1505.07376
+
+## AlexNet
+
+ImageNet Classification with Deep Convolutional Neural Networks
+https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
 ## VGG-19
 
