@@ -8,6 +8,11 @@ https://arxiv.org/pdf/1508.06576v1.pdf
 Texture Synthesis Using Convolutional Neural Networks
 https://arxiv.org/abs/1505.07376
 
+## VGG-19
+
+Very Deep Convolutional Networks for Large-Scale Image Recognition
+https://arxiv.org/abs/1409.1556
+
 ## SqueezeNet
 
 SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE
