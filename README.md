@@ -3,6 +3,11 @@
 The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 
+## Visualization
+
+Visualizing and Understanding Convolutional Networks
+http://www.matthewzeiler.com/pubs/arxive2013/arxive2013.pdf
+
 ## Artistic Style
 
 A Neural Algorithm of Artistic Style
