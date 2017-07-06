@@ -38,4 +38,7 @@ https://arxiv.org/pdf/1602.07360.pdf
 
 ## Generative Adversarial Network
 
+Generative adversarial networks
+https://arxiv.org/pdf/1406.2661.pdf
+
 https://arxiv.org/pdf/1701.00160.pdf
