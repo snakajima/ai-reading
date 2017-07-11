@@ -47,3 +47,8 @@ Generative adversarial networks
 https://arxiv.org/pdf/1406.2661.pdf
 
 https://arxiv.org/pdf/1701.00160.pdf
+
+## Driving
+
+Detecting Drivable Area for Self-driving Cars: An Unsupervised Approach
+https://arxiv.org/pdf/1705.00451.pdf
