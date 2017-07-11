@@ -36,6 +36,11 @@ https://arxiv.org/abs/1409.1556
 SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE
 https://arxiv.org/pdf/1602.07360.pdf
 
+## Motion
+
+Emergence of Locomotion Behaviours in Rich Environments
+https://arxiv.org/abs/1707.02286
+
 ## Generative Adversarial Network
 
 Generative adversarial networks
