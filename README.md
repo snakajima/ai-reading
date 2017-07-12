@@ -36,6 +36,10 @@ https://arxiv.org/abs/1409.1556
 SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE
 https://arxiv.org/pdf/1602.07360.pdf
 
+## Edge detection
+Fast Edge Detection Using Structured Forests
+https://pdollar.github.io/files/papers/DollarPAMI15edges.pdf
+
 ## Motion
 
 Emergence of Locomotion Behaviours in Rich Environments
