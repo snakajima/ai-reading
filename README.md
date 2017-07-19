@@ -56,3 +56,9 @@ https://arxiv.org/pdf/1701.00160.pdf
 
 Detecting Drivable Area for Self-driving Cars: An Unsupervised Approach
 https://arxiv.org/pdf/1705.00451.pdf
+
+NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles
+https://arxiv.org/abs/1707.03501
+
+Robust Adversarial Examples
+https://blog.openai.com/robust-adversarial-inputs/
