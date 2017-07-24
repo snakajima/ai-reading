@@ -36,6 +36,9 @@ https://arxiv.org/abs/1409.1556
 SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE
 https://arxiv.org/pdf/1602.07360.pdf
 
+A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN
+https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4
+
 ## Edge detection
 Fast Edge Detection Using Structured Forests
 https://pdollar.github.io/files/papers/DollarPAMI15edges.pdf
