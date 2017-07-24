@@ -73,3 +73,6 @@ https://arxiv.org/abs/1612.08242
 
 Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 https://arxiv.org/abs/1506.01497
+
+Selective Search for Object Recognition
+http://www.cs.cornell.edu/courses/cs7670/2014sp/slides/VisionSeminar14.pdf
