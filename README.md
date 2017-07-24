@@ -67,3 +67,6 @@ https://blog.openai.com/robust-adversarial-inputs/
 
 YOYO
 https://arxiv.org/abs/1612.08242
+
+Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+https://arxiv.org/abs/1506.01497
