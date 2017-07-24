@@ -62,3 +62,8 @@ https://arxiv.org/abs/1707.03501
 
 Robust Adversarial Examples
 https://blog.openai.com/robust-adversarial-inputs/
+
+## Object Detection
+
+YOYO
+https://arxiv.org/abs/1612.08242
