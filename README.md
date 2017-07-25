@@ -68,6 +68,9 @@ https://blog.openai.com/robust-adversarial-inputs/
 
 ## Object Detection
 
+Real-time object detection with YOLO
+http://machinethink.net/blog/object-detection-with-yolo/
+
 YOYO
 https://arxiv.org/abs/1612.08242
 
