@@ -3,6 +3,9 @@
 The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 
+Clarifai launches SDK for training AI on your iPhone
+https://venturebeat.com/2017/07/12/clarifai-launches-sdk-for-running-ai-on-your-iphone/
+
 ## Basics
 
 Visualizing and Understanding Convolutional Networks
