@@ -82,3 +82,8 @@ https://arxiv.org/abs/1506.01497
 
 Mask R-CNN
 https://arxiv.org/abs/1703.06870
+
+## Visual Interaction
+
+Visual Interaction Networks
+https://arxiv.org/abs/1706.01433
