@@ -100,3 +100,7 @@ http://host.robots.ox.ac.uk/pascal/VOC/
 
 Visual Interaction Networks
 https://arxiv.org/abs/1706.01433
+
+## Tracking
+Toward Geometric Deep SLAM
+https://arxiv.org/pdf/1707.07410.pdf
