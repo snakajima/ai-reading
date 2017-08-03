@@ -107,3 +107,6 @@ https://arxiv.org/pdf/1707.07410.pdf
 
 Why is ARKit better than the alternatives?
 https://medium.com/super-ventures-blog/why-is-arkit-better-than-the-alternatives-af8871889d6a
+
+ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes
+https://arxiv.org/abs/1702.04405
