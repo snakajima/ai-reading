@@ -110,3 +110,7 @@ https://medium.com/super-ventures-blog/why-is-arkit-better-than-the-alternatives
 
 ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes
 https://arxiv.org/abs/1702.04405
+
+## Federated Training
+Communication-Efficient Learning of Deep Networks from Decentralized Data
+https://arxiv.org/pdf/1602.05629.pdf
