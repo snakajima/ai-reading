@@ -114,3 +114,7 @@ https://arxiv.org/abs/1702.04405
 ## Federated Training
 Communication-Efficient Learning of Deep Networks from Decentralized Data
 https://arxiv.org/pdf/1602.05629.pdf
+
+## Fine Tuning
+A Comprehensive guide to Fine-tuning Deep Learning Models in Keras (Part I)
+https://flyyufelix.github.io/2016/10/03/fine-tuning-in-keras-part1.html
